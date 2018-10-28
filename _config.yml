@@ -1,21 +1,21 @@
 
-title: Minhyuk Sung
-url: 'http://mhsung.github.io/'
+title: Sriharsha Annamaneni
+url: 'http://sriharsha_annamaneni.github.io/'
 #baseurl: '/example' #change it according to your repository name
 permalink: none
 
 #Profile information
-name: Minhyuk Sung
-tagline: PhD Student<br>Computer Science<br>Stanford University
+name: Sriharsha Annamaneni
+tagline: Research Fellow<br>Computer Science<br>International Institute of Technology
 #pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
-email: mhsung@cs.stanford.edu
-website: mhsung.github.io/ #do not add http://
-linkedin: mhsung
-github: mhsung
-cv: www.dropbox.com/s/oxg78455trxx2or/cv.pdf?dl=0
+email: sannamaneni2015@my.fit.edu
+website: sriharsha_annamaneni.github.io/ #do not add http://
+linkedin: in/annamaneni-sriharsha-13b77262/
+github: sriharsha0806
+cv: https://www.overleaf.com/read/vbhwgwkqyqpz
 
 # Tracker
-analytics: UA-35688210-1
+#analytics: UA-35688210-1
 #Update all the sections by editing the files inside _includes folder.
